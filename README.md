@@ -8,4 +8,6 @@ aaaaaa
 git clone url
 ```
 
-2. 로컬에서 commit 하나 더 쌓은 후 remote로 push.
+2. 로컬에서 commit 하나 더 쌓은 후 remote로 push
+
+3. Add one more commit on remote and pull by local
